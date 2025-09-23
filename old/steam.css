@@ -6,6 +6,12 @@ body {
     padding: 0;
 }
 
+#app {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
 .steam-section {
     max-width: 900px;
     margin: 40px auto;
